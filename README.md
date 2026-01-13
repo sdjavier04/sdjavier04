@@ -1,4 +1,11 @@
-## Hi there 👋
+
+- Hi, I'm Steven
+- I'm currently studying Electrical Engineering
+- I chose my major because I'd like to help my local community in means of engineering, as well as having income (lol).
+- A fun fact about me is: I have a large vinyl collection.
+- What do I want to learn from EE 205?  Hoping to gain more insight with coding languages, as well as using object-oriented programming in projects like UXO's, detection, etc.
+- A book or movie I'd recommend is:  The Brothers Karamazov by Dostoevsky
+
 
 <!--
 **sdjavier04/sdjavier04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
